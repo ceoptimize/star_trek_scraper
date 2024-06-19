@@ -3,11 +3,11 @@ venv/
 xls_results/*
 
 images/*
-!images
+!images/
 
 OLD/
 
 playground/
 
 output/*
-!output
+!output/
