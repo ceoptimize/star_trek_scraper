@@ -1,0 +1,12 @@
+venv/
+
+xls_results/*
+
+images/*
+
+OLD/
+
+playground/
+
+output/*
+
